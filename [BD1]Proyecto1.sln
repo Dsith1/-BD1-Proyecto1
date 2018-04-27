@@ -5,6 +5,16 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[BD1]Proyecto1", "[BD1]Proyecto1\[BD1]Proyecto1.csproj", "{B91A7EB8-E8F6-466F-9255-CB6B1C6DDF5B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Consultas", "Consultas", "{56BD33D7-125C-4D81-9473-25D5420CA19F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\Bases 1\Proyecto Lab\Consultas.sql = ..\..\..\Documents\Bases 1\Proyecto Lab\Consultas.sql
+		..\..\..\Documents\Bases 1\Proyecto Lab\Control_Maestro.ctl = ..\..\..\Documents\Bases 1\Proyecto Lab\Control_Maestro.ctl
+		..\..\..\Documents\Bases 1\Proyecto Lab\Creacion.sql = ..\..\..\Documents\Bases 1\Proyecto Lab\Creacion.sql
+		..\..\..\Documents\Bases 1\Proyecto Lab\Eliminacion.sql = ..\..\..\Documents\Bases 1\Proyecto Lab\Eliminacion.sql
+		..\..\..\Documents\Bases 1\Proyecto Lab\ICE-Fuente.csv = ..\..\..\Documents\Bases 1\Proyecto Lab\ICE-Fuente.csv
+		..\..\..\Documents\Bases 1\Proyecto Lab\Llenado.sql = ..\..\..\Documents\Bases 1\Proyecto Lab\Llenado.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
